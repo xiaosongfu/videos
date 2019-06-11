@@ -1,8 +1,13 @@
 # 《计算机科学速成课》
+
 ##### 1.简介
 Github: https://github.com/1c7/crash-course-computer-science-chinese
+
 ##### 2.在线观看
+* http://yuque.com/computer/crush-course
+
 * B 站：https://www.bilibili.com/video/av21376839
+
 * YouTube：https://www.youtube.com/playlist?list=PLME-KWdxI8dcaHSzzRsNuOLXtM2Ep_C7a
 
 ![](https://raw.githubusercontent.com/1c7/crash-course-computer-science-chinese/master/image/english.png)
